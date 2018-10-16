@@ -9,4 +9,8 @@ public class ExplorecaliforniaApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ExplorecaliforniaApplication.class, args);
 	}
+	
+	public static run(){
+		
+	}
 }
